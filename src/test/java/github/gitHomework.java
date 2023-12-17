@@ -20,6 +20,6 @@ public class gitHomework {
         $(byText("developer platform.")).hover();
 
         // Тайм аут в 5 секунд, чтобы посмотреть результат
-        sleep(5000);
+        sleep(6000);
     }
 }
